@@ -15,8 +15,6 @@ Dieses Repository dient zur Dokumentation, Projektarbeit und Notizen während de
 ```
 /Fachinformatiker-Daten-Prozessanalyse/
 │── README.md              # Repository-Beschreibung
-│── .gitignore             # Liste der ignorierten Dateien
-│── LICENSE                # Lizenz
 │── Documentation/         # Referenzmaterialien und Glossar
 │── Reports/               # Wochen- und Monatsberichte
 │── Projects/              # Projektarbeit
