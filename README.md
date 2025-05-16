@@ -41,6 +41,3 @@ Dieses Repository dient zur Dokumentation, Projektarbeit und Notizen während de
 
 ## 📅 Aktualisierungen:
 Das Repository wird wöchentlich aktualisiert. Jeder Bericht enthält Informationen über erledigte Aufgaben, neues Wissen und Herausforderungen.
-
-## 📝 Lizenz:
-Dieses Repository steht unter der MIT-Lizenz.
