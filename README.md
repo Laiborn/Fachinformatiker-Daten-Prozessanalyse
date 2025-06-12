@@ -31,11 +31,5 @@ Dieses Repository dient zur Dokumentation, Projektarbeit und Notizen während de
 - Aufbau einer Wissensbasis zu den erlernten Tools und Methoden.
 - Erstellung eines Portfolios für die berufliche Weiterentwicklung.
 
-## 🛠️ Nutzungshinweise:
-1. Beginne mit dem **Learning_Roadmap.md** im `Documentation`-Ordner.
-2. Führe wöchentliche Berichte im `Reports`-Ordner.
-3. Speichere Übungsaufgaben im `Exercises`-Ordner.
-4. Strukturiere Projekte im `Projects`-Ordner mit Unterordnern `Data`, `Analysis`, `Scripts`, `Reports`.
-
 ## 📅 Aktualisierungen:
 Das Repository wird wöchentlich aktualisiert. Jeder Bericht enthält Informationen über erledigte Aufgaben, neues Wissen und Herausforderungen.
